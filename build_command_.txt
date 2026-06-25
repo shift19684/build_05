@@ -1,2 +1,0 @@
-docker build -t my-script-05 .
- docker run --rm my-script-05  
